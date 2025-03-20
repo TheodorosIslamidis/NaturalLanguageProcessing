@@ -40,7 +40,6 @@ In these notebooks, we explore how different classification algorithms perform o
 
 3. **Model Training**  
    - Training each model on the preprocessed text data.  
-   - Hyperparameter tuning (where applicable).
 
 4. **Evaluation**  
    - Assessing model performance using metrics like accuracy.  
